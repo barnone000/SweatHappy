@@ -1,0 +1,17 @@
+<drawables>
+	<bitmap id="LauncherIcon" filename="launcher_icon.png" />
+	<bitmap id="HeartRateIcon" filename="heartRate.png" />
+	<bitmap id="MessageIcon" filename="message.png" />
+	<bitmap id="PhoneIcon" filename="phoneConnected.png" />
+	<bitmap id="NoPhoneIcon" filename="phoneNotConnected.png" />
+	<bitmap id="StepsIcon" filename="steps.png" />
+	<bitmap id="BatteryIcon" filename="battery.png" />
+	<bitmap id="CaloriesIcon" filename="calories.png" />
+	<bitmap id="ElevationIcon" filename="elevation.png" />
+	<bitmap id="AlarmIcon" filename="alarm.png" />
+	<bitmap id="NullIcon" filename="null.png" />
+	<bitmap id="DistanceIcon" filename="distance.png" />
+	<bitmap id="MinutesIcon" filename="minutes.png" />
+	<bitmap id="LocationIcon" filename="location.png" />
+	<bitmap id="FloorsIcon" filename ="floors.png" />
+</drawables>

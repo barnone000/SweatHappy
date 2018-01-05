@@ -1,0 +1,270 @@
+<settings>
+	<setting propertyKey="@Properties.TimeColor" title="@Strings.TimeColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.DateColor" title="@Strings.DateColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.DateFormat" title="@Strings.DateFormat">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.DayMonDD</listEntry>
+            <listEntry value="1">@Strings.DayDDMon</listEntry>
+            <listEntry value="2">@Strings.MonDD</listEntry>
+			<listEntry value="3">@Strings.DDMon</listEntry>
+            <listEntry value="4">@Strings.MMDDYYYY</listEntry>
+            <listEntry value="5">@Strings.DDMMYYYY</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Smile1Color" title="@Strings.FirstSmileColor">
+        <settingConfig type="list">
+           <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.LogoColor" title="@Strings.LogoColor">
+        <settingConfig type="list">
+           <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Smile2Color" title="@Strings.SecondSmileColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Smile3Color" title="@Strings.ThirdSmileColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Circle1Color" title="@Strings.FirstCircleColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Circle2Color" title="@Strings.SecondCircleColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Circle3Color" title="@Strings.ThirdCircleColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Circle4Color" title="@Strings.FourthCircleColor">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorWhite</listEntry>                        
+            <listEntry value="1">@Strings.ColorGray</listEntry>
+            <listEntry value="2">@Strings.ColorRed</listEntry>
+            <listEntry value="3">@Strings.ColorDarkRed</listEntry>
+            <listEntry value="4">@Strings.ColorOrange</listEntry>
+            <listEntry value="5">@Strings.ColorYellow</listEntry>
+            <listEntry value="6">@Strings.ColorGreen</listEntry>
+            <listEntry value="7">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="8">@Strings.ColorBlue</listEntry>
+            <listEntry value="9">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="10">@Strings.ColorPurple</listEntry>
+            <listEntry value="11">@Strings.ColorPink</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Field1" title="@Strings.FirstFieldChoice">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Alarms</listEntry>
+            <listEntry value="1">@Strings.Notifications</listEntry>
+            <listEntry value="2">@Strings.Battery</listEntry>
+            <listEntry value="3">@Strings.HeartRate</listEntry>                        
+            <listEntry value="4">@Strings.StepCount</listEntry>
+            <listEntry value="5">@Strings.StepCountPercent</listEntry>
+            <listEntry value="6">@Strings.Calories</listEntry>
+            <listEntry value="7">@Strings.Elevation</listEntry>
+            <listEntry value="8">@Strings.Distance</listEntry>
+            <listEntry value="9">@Strings.DailyActiveMinutes</listEntry>
+            <listEntry value="10">@Strings.DailyActiveMinutesPercent</listEntry>
+            <listEntry value="11">@Strings.WeeklyActiveMinutes</listEntry>
+            <listEntry value="12">@Strings.WeeklyActiveMinutesPercent</listEntry>
+            <listEntry value="13">@Strings.FloorsClimbed</listEntry>
+            <listEntry value="14">@Strings.FloorsClimbedPercent</listEntry>
+        </settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.Field2" title="@Strings.SecondFieldChoice">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Alarms</listEntry>
+            <listEntry value="1">@Strings.Notifications</listEntry>
+            <listEntry value="2">@Strings.Battery</listEntry>
+            <listEntry value="3">@Strings.HeartRate</listEntry>                        
+            <listEntry value="4">@Strings.StepCount</listEntry>
+            <listEntry value="5">@Strings.StepCountPercent</listEntry>
+            <listEntry value="6">@Strings.Calories</listEntry>
+            <listEntry value="7">@Strings.Elevation</listEntry>
+            <listEntry value="8">@Strings.Distance</listEntry>
+            <listEntry value="9">@Strings.DailyActiveMinutes</listEntry>
+            <listEntry value="10">@Strings.DailyActiveMinutesPercent</listEntry>
+            <listEntry value="11">@Strings.WeeklyActiveMinutes</listEntry>
+            <listEntry value="12">@Strings.WeeklyActiveMinutesPercent</listEntry>
+            <listEntry value="13">@Strings.FloorsClimbed</listEntry>
+            <listEntry value="14">@Strings.FloorsClimbedPercent</listEntry>
+        </settingConfig>
+	</setting>
+
+	<setting propertyKey="@Properties.Field3" title="@Strings.ThirdFieldChoice">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Alarms</listEntry>
+            <listEntry value="1">@Strings.Notifications</listEntry>
+            <listEntry value="2">@Strings.Battery</listEntry>
+            <listEntry value="3">@Strings.HeartRate</listEntry>                        
+            <listEntry value="4">@Strings.StepCount</listEntry>
+            <listEntry value="5">@Strings.StepCountPercent</listEntry>
+            <listEntry value="6">@Strings.Calories</listEntry>
+            <listEntry value="7">@Strings.Elevation</listEntry>
+            <listEntry value="8">@Strings.Distance</listEntry>
+            <listEntry value="9">@Strings.DailyActiveMinutes</listEntry>
+            <listEntry value="10">@Strings.DailyActiveMinutesPercent</listEntry>
+            <listEntry value="11">@Strings.WeeklyActiveMinutes</listEntry>
+            <listEntry value="12">@Strings.WeeklyActiveMinutesPercent</listEntry>
+            <listEntry value="13">@Strings.FloorsClimbed</listEntry>
+            <listEntry value="14">@Strings.FloorsClimbedPercent</listEntry>
+        </settingConfig>
+	</setting>
+
+	<setting propertyKey="@Properties.Field4" title="@Strings.FourthFieldChoice">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.Alarms</listEntry>
+            <listEntry value="1">@Strings.Notifications</listEntry>
+            <listEntry value="2">@Strings.Battery</listEntry>
+            <listEntry value="3">@Strings.HeartRate</listEntry>                        
+            <listEntry value="4">@Strings.StepCount</listEntry>
+            <listEntry value="5">@Strings.StepCountPercent</listEntry>
+            <listEntry value="6">@Strings.Calories</listEntry>
+            <listEntry value="7">@Strings.Elevation</listEntry>
+            <listEntry value="8">@Strings.Distance</listEntry>
+			<listEntry value="9">@Strings.DailyActiveMinutes</listEntry>
+            <listEntry value="10">@Strings.DailyActiveMinutesPercent</listEntry>
+            <listEntry value="11">@Strings.WeeklyActiveMinutes</listEntry>
+            <listEntry value="12">@Strings.WeeklyActiveMinutesPercent</listEntry>
+            <listEntry value="13">@Strings.FloorsClimbed</listEntry>
+            <listEntry value="14">@Strings.FloorsClimbedPercent</listEntry>
+        </settingConfig>
+	</setting>
+		
+	<setting propertyKey="@Properties.Phone" title="@Strings.Phone">
+		<settingConfig type="list">
+			<listEntry value="1">@Strings.Yes</listEntry>
+			<listEntry value="0">@Strings.No</listEntry>
+		</settingConfig>
+	</setting>
+
+</settings>

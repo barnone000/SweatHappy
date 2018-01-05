@@ -1,0 +1,18 @@
+<properties>
+    <property id="TimeColor" type="number">0</property>
+    <property id="DateColor" type="number">8</property>
+    <property id="DateFormat" type="number">0</property>
+    <property id="LogoColor" type="number">8</property>
+    <property id="Smile1Color" type="number">8</property>
+    <property id="Smile2Color" type="number">8</property>
+    <property id="Smile3Color" type="number">8</property>
+    <property id="Circle1Color" type="number">8</property>
+    <property id="Circle2Color" type="number">8</property>
+    <property id="Circle3Color" type="number">8</property>
+    <property id="Circle4Color" type="number">8</property>
+    <property id="Field1" type="number">3</property>
+    <property id="Field2" type="number">8</property>
+    <property id="Field3" type="number">5</property>
+    <property id="Field4" type="number">6</property>
+    <property id="Phone" type="number">0</property>
+</properties>
